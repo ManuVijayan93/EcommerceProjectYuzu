@@ -1,0 +1,5 @@
+com\yuzu4\controller\AdminController.class
+com\yuzu4\controller\CategoryController.class
+com\yuzu4\controller\ProductController.class
+com\yuzu4\controller\SupplierController.class
+com\yuzu4\controller\HomeController.class

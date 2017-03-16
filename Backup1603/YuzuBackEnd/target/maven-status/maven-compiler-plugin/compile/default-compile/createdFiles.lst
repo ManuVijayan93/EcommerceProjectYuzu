@@ -1,0 +1,13 @@
+com\yuzu\dao\impl\ProductDAOImpl.class
+com\yuzu\dao\CategoryDAO.class
+com\yuzu\domain\Supplier.class
+com\yuzu\dao\impl\SupplierDAOImpl.class
+com\yuzu\dao\SupplierDAO.class
+com\yuzu\domain\Product.class
+com\yuzu\config\ApplicationContextConfig.class
+com\yuzu\domain\User.class
+com\yuzu\dao\impl\UserDAOImpl.class
+com\yuzu\dao\ProductDAO.class
+com\yuzu\domain\Category.class
+com\yuzu\dao\impl\CategoryDAOImpl.class
+com\yuzu\dao\UserDAO.class

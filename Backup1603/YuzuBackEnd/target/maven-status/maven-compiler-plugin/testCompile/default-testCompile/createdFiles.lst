@@ -1,0 +1,4 @@
+com\yuzu\testcase\ProductTestCase.class
+com\yuzu\testcase\UserTestCase.class
+com\yuzu\testcase\CategoryTestCase.class
+com\yuzu\testcase\SupplierTestCase.class
